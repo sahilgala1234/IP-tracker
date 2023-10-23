@@ -1,5 +1,6 @@
 # IP-tracker- GALA
 ## About The Project
+![Uploading image.png…]()
 
 In this challenge, I will be using two separate APIs together to create an IP Address Tracking app.
 The main challenge is to build out this IP Address Tracker app and get it looking as close to the design as possible. To get the IP Address locations, I will be using the IP Geolocation API by IPify. So if you've got something you'd like to practice, feel free to give it a go.
